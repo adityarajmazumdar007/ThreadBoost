@@ -32,7 +32,6 @@ API Response Time Diff
 <img width="1181" height="444" alt="Screenshot 2025-11-15 at 9 26 36 AM" src="https://github.com/user-attachments/assets/c5d13dd6-aac8-4dc2-9c69-2c4df2b46aca" />
 
 Performance Improvement :
-<img width="429" height="110" alt="Screenshot 2025-11-15 at 9 30 57 AM" src="https://github.com/user-attachments/assets/3f1a9b81-d33a-4765-8bc1-bba85e8fe8ca" />
 <img width="437" height="473" alt="Screenshot 2025-11-15 at 9 31 02 AM" src="https://github.com/user-attachments/assets/a35e75de-eb68-4bd7-9d7f-a1258b0a2f09" />
 <img width="479" height="615" alt="Screenshot 2025-11-15 at 9 31 07 AM" src="https://github.com/user-attachments/assets/90531648-03ca-451b-b58d-deb1208c52de" />
 
